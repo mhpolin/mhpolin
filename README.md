@@ -54,6 +54,6 @@ Master's thesis: quantitative study of common Java & Python errors in first-year
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mafruza-haque-polin/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mafruza-haque-polin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-c9a84c?style=flat-square&logo=githubpages&logoColor=black)](https://mhpolin.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mafruza.cse@gmail.com)
