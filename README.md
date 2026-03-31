@@ -1,7 +1,7 @@
 # Hi, I'm Mafruza 👋
 
-**Software Developer** · Full-Stack · Test Automation · Automotive Software  
-📍 Chemnitz, Germany · 🎓 M.Sc. Automotive Software Engineering @ TU Chemnitz
+**Software Developer** · Full-Stack · Test Automation · Web Development  
+📍 Chemnitz, Germany · 🎓 M.Sc. Web Engineering @ TU Chemnitz
 
 ---
 
